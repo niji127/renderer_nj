@@ -1,3 +1,0 @@
-D:/CG/renderer_nj/build/CMakeFiles/renderer_nj.dir
-D:/CG/renderer_nj/build/CMakeFiles/edit_cache.dir
-D:/CG/renderer_nj/build/CMakeFiles/rebuild_cache.dir
