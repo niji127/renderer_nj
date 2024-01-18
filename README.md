@@ -10,6 +10,10 @@ real time renderer based on opengl
 - Percentage Closer Filter
 - Percentage Closer Soft Shadow
 - Hi-Z Screen-Space Reflections
+### Control:
+- **WASD** moving positon
+- **mouse** change yaw and pitch
+- **scroll** change FOV
 ### Examples:
 #### Kulla-Conty Approximation
 <img width="952" alt="Kulla_Conty" src="https://github.com/niji127/renderer_nj/assets/152270816/cc1fca38-bd25-4b03-a335-3db7cc307261">.
