@@ -1,0 +1,92 @@
+[
+{
+  "directory": "D:/CG/renderer_nj/build",
+  "command": "D:\\Code\\mingw64\\bin\\g++.exe  @CMakeFiles/renderer_nj.dir/includes_CXX.rsp -lstdc++fs -std=c++17 -O3 -DNDEBUG -o CMakeFiles\\renderer_nj.dir\\src\\Kulla_Conty.cpp.obj -c D:\\CG\\renderer_nj\\src\\Kulla_Conty.cpp",
+  "file": "D:/CG/renderer_nj/src/Kulla_Conty.cpp",
+  "output": "CMakeFiles/renderer_nj.dir/src/Kulla_Conty.cpp.obj"
+},
+{
+  "directory": "D:/CG/renderer_nj/build",
+  "command": "D:\\Code\\mingw64\\bin\\g++.exe  @CMakeFiles/renderer_nj.dir/includes_CXX.rsp -lstdc++fs -std=c++17 -O3 -DNDEBUG -o CMakeFiles\\renderer_nj.dir\\src\\SSR.cpp.obj -c D:\\CG\\renderer_nj\\src\\SSR.cpp",
+  "file": "D:/CG/renderer_nj/src/SSR.cpp",
+  "output": "CMakeFiles/renderer_nj.dir/src/SSR.cpp.obj"
+},
+{
+  "directory": "D:/CG/renderer_nj/build",
+  "command": "D:\\Code\\mingw64\\bin\\g++.exe  @CMakeFiles/renderer_nj.dir/includes_CXX.rsp -lstdc++fs -std=c++17 -O3 -DNDEBUG -o CMakeFiles\\renderer_nj.dir\\src\\brdf.cpp.obj -c D:\\CG\\renderer_nj\\src\\brdf.cpp",
+  "file": "D:/CG/renderer_nj/src/brdf.cpp",
+  "output": "CMakeFiles/renderer_nj.dir/src/brdf.cpp.obj"
+},
+{
+  "directory": "D:/CG/renderer_nj/build",
+  "command": "D:\\Code\\mingw64\\bin\\g++.exe  @CMakeFiles/renderer_nj.dir/includes_CXX.rsp -lstdc++fs -std=c++17 -O3 -DNDEBUG -o CMakeFiles\\renderer_nj.dir\\src\\cubemap.cpp.obj -c D:\\CG\\renderer_nj\\src\\cubemap.cpp",
+  "file": "D:/CG/renderer_nj/src/cubemap.cpp",
+  "output": "CMakeFiles/renderer_nj.dir/src/cubemap.cpp.obj"
+},
+{
+  "directory": "D:/CG/renderer_nj/build",
+  "command": "D:\\Code\\mingw64\\bin\\g++.exe  @CMakeFiles/renderer_nj.dir/includes_CXX.rsp -lstdc++fs -std=c++17 -O3 -DNDEBUG -o CMakeFiles\\renderer_nj.dir\\src\\glad.cpp.obj -c D:\\CG\\renderer_nj\\src\\glad.cpp",
+  "file": "D:/CG/renderer_nj/src/glad.cpp",
+  "output": "CMakeFiles/renderer_nj.dir/src/glad.cpp.obj"
+},
+{
+  "directory": "D:/CG/renderer_nj/build",
+  "command": "D:\\Code\\mingw64\\bin\\g++.exe  @CMakeFiles/renderer_nj.dir/includes_CXX.rsp -lstdc++fs -std=c++17 -O3 -DNDEBUG -o CMakeFiles\\renderer_nj.dir\\src\\initiate.cpp.obj -c D:\\CG\\renderer_nj\\src\\initiate.cpp",
+  "file": "D:/CG/renderer_nj/src/initiate.cpp",
+  "output": "CMakeFiles/renderer_nj.dir/src/initiate.cpp.obj"
+},
+{
+  "directory": "D:/CG/renderer_nj/build",
+  "command": "D:\\Code\\mingw64\\bin\\g++.exe  @CMakeFiles/renderer_nj.dir/includes_CXX.rsp -lstdc++fs -std=c++17 -O3 -DNDEBUG -o CMakeFiles\\renderer_nj.dir\\src\\main.cpp.obj -c D:\\CG\\renderer_nj\\src\\main.cpp",
+  "file": "D:/CG/renderer_nj/src/main.cpp",
+  "output": "CMakeFiles/renderer_nj.dir/src/main.cpp.obj"
+},
+{
+  "directory": "D:/CG/renderer_nj/build",
+  "command": "D:\\Code\\mingw64\\bin\\g++.exe  @CMakeFiles/renderer_nj.dir/includes_CXX.rsp -lstdc++fs -std=c++17 -O3 -DNDEBUG -o CMakeFiles\\renderer_nj.dir\\src\\material.cpp.obj -c D:\\CG\\renderer_nj\\src\\material.cpp",
+  "file": "D:/CG/renderer_nj/src/material.cpp",
+  "output": "CMakeFiles/renderer_nj.dir/src/material.cpp.obj"
+},
+{
+  "directory": "D:/CG/renderer_nj/build",
+  "command": "D:\\Code\\mingw64\\bin\\g++.exe  @CMakeFiles/renderer_nj.dir/includes_CXX.rsp -lstdc++fs -std=c++17 -O3 -DNDEBUG -o CMakeFiles\\renderer_nj.dir\\src\\mesh.cpp.obj -c D:\\CG\\renderer_nj\\src\\mesh.cpp",
+  "file": "D:/CG/renderer_nj/src/mesh.cpp",
+  "output": "CMakeFiles/renderer_nj.dir/src/mesh.cpp.obj"
+},
+{
+  "directory": "D:/CG/renderer_nj/build",
+  "command": "D:\\Code\\mingw64\\bin\\g++.exe  @CMakeFiles/renderer_nj.dir/includes_CXX.rsp -lstdc++fs -std=c++17 -O3 -DNDEBUG -o CMakeFiles\\renderer_nj.dir\\src\\model.cpp.obj -c D:\\CG\\renderer_nj\\src\\model.cpp",
+  "file": "D:/CG/renderer_nj/src/model.cpp",
+  "output": "CMakeFiles/renderer_nj.dir/src/model.cpp.obj"
+},
+{
+  "directory": "D:/CG/renderer_nj/build",
+  "command": "D:\\Code\\mingw64\\bin\\g++.exe  @CMakeFiles/renderer_nj.dir/includes_CXX.rsp -lstdc++fs -std=c++17 -O3 -DNDEBUG -o CMakeFiles\\renderer_nj.dir\\src\\object.cpp.obj -c D:\\CG\\renderer_nj\\src\\object.cpp",
+  "file": "D:/CG/renderer_nj/src/object.cpp",
+  "output": "CMakeFiles/renderer_nj.dir/src/object.cpp.obj"
+},
+{
+  "directory": "D:/CG/renderer_nj/build",
+  "command": "D:\\Code\\mingw64\\bin\\g++.exe  @CMakeFiles/renderer_nj.dir/includes_CXX.rsp -lstdc++fs -std=c++17 -O3 -DNDEBUG -o CMakeFiles\\renderer_nj.dir\\src\\screen.cpp.obj -c D:\\CG\\renderer_nj\\src\\screen.cpp",
+  "file": "D:/CG/renderer_nj/src/screen.cpp",
+  "output": "CMakeFiles/renderer_nj.dir/src/screen.cpp.obj"
+},
+{
+  "directory": "D:/CG/renderer_nj/build",
+  "command": "D:\\Code\\mingw64\\bin\\g++.exe  @CMakeFiles/renderer_nj.dir/includes_CXX.rsp -lstdc++fs -std=c++17 -O3 -DNDEBUG -o CMakeFiles\\renderer_nj.dir\\src\\shader.cpp.obj -c D:\\CG\\renderer_nj\\src\\shader.cpp",
+  "file": "D:/CG/renderer_nj/src/shader.cpp",
+  "output": "CMakeFiles/renderer_nj.dir/src/shader.cpp.obj"
+},
+{
+  "directory": "D:/CG/renderer_nj/build",
+  "command": "D:\\Code\\mingw64\\bin\\g++.exe  @CMakeFiles/renderer_nj.dir/includes_CXX.rsp -lstdc++fs -std=c++17 -O3 -DNDEBUG -o CMakeFiles\\renderer_nj.dir\\src\\shadow.cpp.obj -c D:\\CG\\renderer_nj\\src\\shadow.cpp",
+  "file": "D:/CG/renderer_nj/src/shadow.cpp",
+  "output": "CMakeFiles/renderer_nj.dir/src/shadow.cpp.obj"
+},
+{
+  "directory": "D:/CG/renderer_nj/build",
+  "command": "D:\\Code\\mingw64\\bin\\g++.exe  @CMakeFiles/renderer_nj.dir/includes_CXX.rsp -lstdc++fs -std=c++17 -O3 -DNDEBUG -o CMakeFiles\\renderer_nj.dir\\src\\texture.cpp.obj -c D:\\CG\\renderer_nj\\src\\texture.cpp",
+  "file": "D:/CG/renderer_nj/src/texture.cpp",
+  "output": "CMakeFiles/renderer_nj.dir/src/texture.cpp.obj"
+}
+]

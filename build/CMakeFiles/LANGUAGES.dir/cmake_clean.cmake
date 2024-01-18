@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/LANGUAGES.dir/src/Kulla_Conty.cpp.obj"
+  "CMakeFiles/LANGUAGES.dir/src/Kulla_Conty.cpp.obj.d"
+  "CMakeFiles/LANGUAGES.dir/src/SSR.cpp.obj"
+  "CMakeFiles/LANGUAGES.dir/src/SSR.cpp.obj.d"
+  "CMakeFiles/LANGUAGES.dir/src/brdf.cpp.obj"
+  "CMakeFiles/LANGUAGES.dir/src/brdf.cpp.obj.d"
+  "CMakeFiles/LANGUAGES.dir/src/cubemap.cpp.obj"
+  "CMakeFiles/LANGUAGES.dir/src/cubemap.cpp.obj.d"
+  "CMakeFiles/LANGUAGES.dir/src/glad.cpp.obj"
+  "CMakeFiles/LANGUAGES.dir/src/glad.cpp.obj.d"
+  "CMakeFiles/LANGUAGES.dir/src/initiate.cpp.obj"
+  "CMakeFiles/LANGUAGES.dir/src/initiate.cpp.obj.d"
+  "CMakeFiles/LANGUAGES.dir/src/main.cpp.obj"
+  "CMakeFiles/LANGUAGES.dir/src/main.cpp.obj.d"
+  "CMakeFiles/LANGUAGES.dir/src/material.cpp.obj"
+  "CMakeFiles/LANGUAGES.dir/src/material.cpp.obj.d"
+  "CMakeFiles/LANGUAGES.dir/src/mesh.cpp.obj"
+  "CMakeFiles/LANGUAGES.dir/src/mesh.cpp.obj.d"
+  "CMakeFiles/LANGUAGES.dir/src/model.cpp.obj"
+  "CMakeFiles/LANGUAGES.dir/src/model.cpp.obj.d"
+  "CMakeFiles/LANGUAGES.dir/src/object.cpp.obj"
+  "CMakeFiles/LANGUAGES.dir/src/object.cpp.obj.d"
+  "CMakeFiles/LANGUAGES.dir/src/screen.cpp.obj"
+  "CMakeFiles/LANGUAGES.dir/src/screen.cpp.obj.d"
+  "CMakeFiles/LANGUAGES.dir/src/shader.cpp.obj"
+  "CMakeFiles/LANGUAGES.dir/src/shader.cpp.obj.d"
+  "CMakeFiles/LANGUAGES.dir/src/shadow.cpp.obj"
+  "CMakeFiles/LANGUAGES.dir/src/shadow.cpp.obj.d"
+  "CMakeFiles/LANGUAGES.dir/src/texture.cpp.obj"
+  "CMakeFiles/LANGUAGES.dir/src/texture.cpp.obj.d"
+  "D:/CG/renderer_nj/bin/LANGUAGES.exe"
+  "D:/CG/renderer_nj/bin/LANGUAGES.exe.manifest"
+  "D:/CG/renderer_nj/bin/LANGUAGES.pdb"
+  "D:/CG/renderer_nj/bin/libLANGUAGES.dll.a"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/LANGUAGES.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
